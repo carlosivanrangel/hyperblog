@@ -4,4 +4,10 @@ Master 1
 
 Master 2
 
+<<<<<<< HEAD
 Experimento 1
+=======
+Experimento 2
+
+Master 1
+>>>>>>> 99599ea (Exp 2)
